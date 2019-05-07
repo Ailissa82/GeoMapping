@@ -1,3 +1,3 @@
 # InClassProject-CityBike
 
-Update Congig File with your API Key
+Update Config File with your API Key
